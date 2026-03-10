@@ -5,9 +5,11 @@
 ## Functional requirements
 
 ## Non functional requirements
+
 This section should define requirments like availability, latency, consistancy and scalability
 
 ## System architecture diagram
+
 This section should define high level system architecture diagram, it should show how user/client interacts with the system.
 
 For exampel:
@@ -22,11 +24,11 @@ Request -> Load balancer(s) -> Frontend -> backend/API
 
 What will the user input?
 
-What is required for each API? 
+What is required for each API?
 
 ## Design APIs
 
-REST vs RPC, 
+REST vs RPC,
 
 Take in consideraation for scaling and expansion
 
